@@ -1,0 +1,3 @@
+TC1: Chưa đủ tuổi (<14)
+   Đầu vào : Người dùng nhập 10 tuổi 
+   Kết quả mong đợi : Bạn chưa đủ tuổi làm căn cước công 

@@ -1,0 +1,3 @@
+Tuổi không hợp lệ (chuỗi không phải số).
+Đầu vào: Người dùng nhập vào chuỗi “haianh”
+Kết quả mong đợi: Tuổi nhập vào không hợp lệ hoặc không phải số nguyên dương

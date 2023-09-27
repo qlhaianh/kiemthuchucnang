@@ -1,0 +1,3 @@
+Tuổi không hợp lệ (giá trị rỗng).
+Đầu vào: ""
+Kết quả mong đợi: Tuổi nhập vào không hợp lệ hoặc không phải số nguyên dương

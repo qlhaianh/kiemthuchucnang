@@ -1,0 +1,3 @@
+Đủ tuổi nhưng đúng 14 tuổi 
+Đầu vào : Người dùng nhập 14 tuổi 
+Kết quả mong đợi : Bạn đủ tuổi làm căn cước công dân

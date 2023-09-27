@@ -1,0 +1,3 @@
+Tuổi không hợp lệ (giá trị âm).
+Đầu vào: Người dùng nhập -5 tuổi
+Kết quả mong đợi: Tuổi nhập vào không hợp lệ hoặc không phải số nguyên dương
